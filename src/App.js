@@ -17,7 +17,11 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route path="/" component={StateBranchOfficials} exact />
-          <Route path="/desk" component={StateBranchOfficials} />
+          <Route
+            path="/StateBranchOfficials"
+            component={StateBranchOfficials}
+            exact
+          />
         </Switch>
       </BrowserRouter>
     </div>
