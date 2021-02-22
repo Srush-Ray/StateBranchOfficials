@@ -366,7 +366,7 @@ class StateBranchOfficials extends React.Component {
             </Carousel>
           </div>
         </div>
-        <div className="footer_upcloud row">
+        <div className="footer_upcloud ">
           <p>Powered by Upcloud Technology Pvt Ltd</p>
         </div>
       </div>

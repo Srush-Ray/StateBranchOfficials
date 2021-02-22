@@ -27,6 +27,7 @@
   margin-left: 40px;
   margin-top: 40px;
   margin-bottom: 0;
+  text-align: left;
 }
 .StateBranchOfficials__row1 {
   text-align: left;
@@ -408,7 +409,7 @@
     font-size: 14px;
     padding: 20px;
     padding-bottom: 0;
-    margin-left: 10px;
+    margin-left: 0px;
     margin-top: 40px;
     margin-bottom: 0;
   }
