@@ -16,7 +16,18 @@
   margin-left: 0 !important;
   margin-right: 0 !important;
 } */
-
+.footer_upcloud {
+  /* display: flex;
+  justify-content: flex-start; */
+  color: gray;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 20px;
+  padding-bottom: 0;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
 .StateBranchOfficials__row1 {
   text-align: left;
   align-items: center;
@@ -389,6 +400,18 @@
 }
 /* mobile */
 @media only screen and (max-width: 480px) {
+  .footer_upcloud {
+    /* display: flex;
+    justify-content: flex-start; */
+    color: gray;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 20px;
+    padding-bottom: 0;
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-bottom: 0;
+  }
   .StateBranchOfficials__illustration {
     width: 22rem;
     height: 20rem;
