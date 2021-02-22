@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/StateBranchOfficials/static/css/main.20ee5c88.chunk.css",
+    "main.js": "/StateBranchOfficials/static/js/main.4316a885.chunk.js",
+    "main.js.map": "/StateBranchOfficials/static/js/main.4316a885.chunk.js.map",
+    "runtime-main.js": "/StateBranchOfficials/static/js/runtime-main.781b6abe.js",
+    "runtime-main.js.map": "/StateBranchOfficials/static/js/runtime-main.781b6abe.js.map",
+    "static/css/2.765b9b31.chunk.css": "/StateBranchOfficials/static/css/2.765b9b31.chunk.css",
+    "static/js/2.08350f16.chunk.js": "/StateBranchOfficials/static/js/2.08350f16.chunk.js",
+    "static/js/2.08350f16.chunk.js.map": "/StateBranchOfficials/static/js/2.08350f16.chunk.js.map",
+    "static/js/3.54f5f116.chunk.js": "/StateBranchOfficials/static/js/3.54f5f116.chunk.js",
+    "static/js/3.54f5f116.chunk.js.map": "/StateBranchOfficials/static/js/3.54f5f116.chunk.js.map",
+    "index.html": "/StateBranchOfficials/index.html",
+    "static/css/2.765b9b31.chunk.css.map": "/StateBranchOfficials/static/css/2.765b9b31.chunk.css.map",
+    "static/css/main.20ee5c88.chunk.css.map": "/StateBranchOfficials/static/css/main.20ee5c88.chunk.css.map",
+    "static/js/2.08350f16.chunk.js.LICENSE.txt": "/StateBranchOfficials/static/js/2.08350f16.chunk.js.LICENSE.txt",
+    "static/media/Rectangle 204.0b77af48.png": "/StateBranchOfficials/static/media/Rectangle 204.0b77af48.png",
+    "static/media/State branch official.bae10d1b.svg": "/StateBranchOfficials/static/media/State branch official.bae10d1b.svg",
+    "static/media/logo.6ce24c58.svg": "/StateBranchOfficials/static/media/logo.6ce24c58.svg",
+    "static/media/styles.css": "/StateBranchOfficials/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.781b6abe.js",
+    "static/css/2.765b9b31.chunk.css",
+    "static/js/2.08350f16.chunk.js",
+    "static/css/main.20ee5c88.chunk.css",
+    "static/js/main.4316a885.chunk.js"
+  ]
+}
